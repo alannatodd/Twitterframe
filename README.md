@@ -20,3 +20,5 @@ https://youtu.be/g-cVE6Adopg
 # Wiring Diagram
 <img width="1309" alt="Screen Shot 2022-05-03 at 11 40 45 PM" src="https://user-images.githubusercontent.com/23437904/166633398-1df83693-dc16-442f-932a-1cbb1bf089da.png">
 
+# Notes 
+JPEG compression/decompression, scaling, and push to screen adapted from [here](https://forum.arduino.cc/t/jpeg-picture-on-adafruit-3-5-320x480-color-tft-touchscreen/561028/8)
